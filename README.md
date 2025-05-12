@@ -19,9 +19,9 @@ This repository has the code of a litle project made for the mothers day
    ```bash
     git clone https://github.com/GugaBRU9/Data_Analysis.git
 2. Enter the repository:
-    ```bash
+   ```bash
     cd Data_Analysis
-3.Run the main.py:
-  ```bash
-  Streamlit run main.py
+3. Run the main.py:
+   ```bash
+    Streamlit run main.py
  
