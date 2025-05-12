@@ -7,7 +7,7 @@ with tab2:
     mensagem = st.text_input("Mensagem: "
                              "")
 with tab1:
-    if st.button("Clique a auqi para entender o que é mãe!"):
+    if st.button("Clique a aqui para entender o que é mãe!"):
         with st.container():
             col1, col2, col3, col4, col5 = st.columns(5)
             with col2:
