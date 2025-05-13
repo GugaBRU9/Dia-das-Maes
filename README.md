@@ -17,10 +17,10 @@ This repository has the code of a litle project made for the mothers day
 
 1. Copy this repository:
    ```bash
-    git clone https://github.com/GugaBRU9/Data_Analysis.git
+    git clone https://github.com/GugaBRU9/Dia-das-Maes.git
 2. Enter the repository:
    ```bash
-    cd Data_Analysis
+    cd Dia-das-Maes
 3. Run the main.py:
    ```bash
     Streamlit run main.py
